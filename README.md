@@ -1,7 +1,4 @@
 # web-application-development-equal-opportunity-2023
-Equal Opportunity is a platform with a goal to provide equal employment opportunities for all job seekers regardless of their background, race, gender, or disability. This website ensures that individuals with diverse backgrounds have access to job postings and employers have access to a pool of potential employees.
-
-
 
 ## Background
 Equal Opportunity is a platform with a goal to provide equal employment opportunities for all job seekers regardless of their background, race, gender, or disability. This website ensures that individuals with diverse backgrounds have access to job postings and employers have access to a pool of potential employees with varied backgrounds and experiences. The website may include features such as job search filters and resume builders. An inclusive job seeking website can help break down traditional barriers to employment and create a more diverse and inclusive workforce.
@@ -50,47 +47,7 @@ Candidates can generate their resumes in PDF format from their personal informat
 
 ---
 
-## Minimal Functional Requirements (Interfaces)
 
-### 1.1. Member Registration Page
-The registration page for the Equal Opportunity platform is for users interested in creating an account, whether for job seeking or employee seeking. Once registered, users will be able to access the platform with their own account.
-- **Image 1.1**: Candidate’s Registration Page
-- **Image 1.2**: Employer’s Registration Page
 
-### 1.2. Authentication
-The login page for the Equal Opportunity platform includes fields for users to enter their email and password. The login button allows users to submit their credentials to be validated. If they have an account with Equal Opportunity, they can access the platform.
-- **Image 1.3**: Candidate’s Login Page
-- **Image 1.4**: Employer’s Login Page
 
-### 1.3. Member Area
-The member area in the Equal Opportunity platform allows users to customize their account with relevant information about themselves.
-- **Image 1.5**: Candidate’s Profile View
-- **Image 1.6**: Candidate Edit Profile Information
-- **Image 1.7**: Candidate’s Work Experience View, Delete
-- **Image 1.8**: Candidate’s Work Experience Edit
-- **Image 1.9**: Candidate’s Work Experience Add
-- **Image 2.0**: Candidate’s Education View, Delete
-- **Image 2.1**: Candidate’s Education Edit
-- **Image 2.2**: Candidate’s Education Add
-- **Image 2.3**: Candidate’s Skill View
-- **Image 2.4**: Candidate’s Skill Add, Edit, Delete
-- **Image 2.5**: Candidate’s Language View
-- **Image 2.6**: Candidate’s Language Add, Edit, Delete
-- **Image 2.7**: Candidate’s Resume View
-
-### 1.4. Business Information
-The business information pages help users know more about the Equal Opportunity platform. For companies that posted job advertisements, employees can see more about the company and job position details.
-- **Image 2.8**: Equal Opportunity’s About Page
-- **Image 2.9**: Equal Opportunity’s Contact Page
-- **Image 3.0**: Company’s About Job Advertisement Page
-
-### 1.5. Form Validation using Javascript
-- **Image 3.1**: Login Validation alert( );
-
-### 1.6. Formatting Display using CSS
-- **Image 3.2**: CSS :hover
-
-## Additional Function
-The additional function included is the pagination function. If there are more than 5 advertisements on one page, a next page button will be available.
-- **Image 3.3**: Next Page Function
 
