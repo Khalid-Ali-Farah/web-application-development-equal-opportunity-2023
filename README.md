@@ -48,6 +48,14 @@ Candidates can generate their resumes in PDF format from their personal informat
 ---
 
 
+## Student Details
+ 
+  - B032210435 KHALID ALI FARAH
+  - B032210011 ALLYSHA APRIL SI KIM CHOO
+  - B032020051 NUR AMELIA ASYQIN BINTI MOHD ISMAILUZABIHULLAH
+
+
+
 
 
 
