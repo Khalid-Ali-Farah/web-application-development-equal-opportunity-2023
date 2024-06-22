@@ -1,5 +1,11 @@
 # web-application-development-equal-opportunity-2023
 
+
+## Demo Video
+
+[Watch the video](https://github.com/Khalid-Ali-Farah/web-application-development-equal-opportunity-2023/blob/f494dbed7a00a67073458729198e3d2dab6c8d26/demo.mp4)
+
+
 ## Background
 Equal Opportunity is a platform with a goal to provide equal employment opportunities for all job seekers regardless of their background, race, gender, or disability. This website ensures that individuals with diverse backgrounds have access to job postings and employers have access to a pool of potential employees with varied backgrounds and experiences. The website may include features such as job search filters and resume builders. An inclusive job seeking website can help break down traditional barriers to employment and create a more diverse and inclusive workforce.
 
