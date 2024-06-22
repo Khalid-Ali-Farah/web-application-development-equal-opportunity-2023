@@ -52,6 +52,10 @@ Candidates can generate their resumes in PDF format from their personal informat
 
 ---
 
+## Report
+
+You can view the detailed report [here](https://github.com/Khalid-Ali-Farah/web-application-development-equal-opportunity-2023/blob/aa38c43abcccf4c04bd70fb2b957541ef0bdff3b/Equal%20Opportunity%20Report.pdf).
+
 
 ## Student Details
  
