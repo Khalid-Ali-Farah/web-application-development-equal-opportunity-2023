@@ -1,9 +1,8 @@
 # web-application-development-equal-opportunity-2023
 
+## Demo
 
-## Demo Video
-
-[Watch the video](https://github.com/Khalid-Ali-Farah/web-application-development-equal-opportunity-2023/blob/f494dbed7a00a67073458729198e3d2dab6c8d26/demo.mp4)
+![Demo GIF](https://github.com/Khalid-Ali-Farah/web-application-development-equal-opportunity-2023/blob/ffb594d03014a2279c62dbb134c377ca4cc02e1d/demo.gif)
 
 
 ## Background
